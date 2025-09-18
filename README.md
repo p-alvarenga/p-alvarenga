@@ -1,4 +1,4 @@
-## 🔭 Hi, I am Pedro!
+## 🔭 Hi, I am Pedro Alvarenga!
 
 - 🏹 Full-stack dev (`not one more on the crowd`)
 - 🔥 I like to make things run fast (`like, really fast`)
