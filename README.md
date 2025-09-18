@@ -1,6 +1,6 @@
 ## 🔭 Hi, I am Pedro Alvarenga!
 
-- 🏹 Full-stack dev (`not one more on the crowd`)
+- 🤓 Full-stack Developer (`not one more on the crowd`)
 - 🔥 I like to make things run fast (`like, really fast`)
 - 📍 I am currently in Brazil. Sadly, I can only work remotely (`:\`)
 
