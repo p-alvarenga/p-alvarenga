@@ -1,19 +1,25 @@
 ## 🔭 Hi, I am Pedro Alvarenga!
 
-- 🤓 Full-stack Developer (`not one more on the crowd`)
-- 🔥 I like to make things run fast (`like, really fast`)
-- 📍 I am currently in Brazil. Sadly, I can only work remotely (`:\`)
+- 🤓 Back-end Enginner 
+- 🔥 I like to make things run fast and cheap
 
-### 🧠 Tech Stack 
+## 🧠 Tech Stack 
 
+#### Back-end Stack
+
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=5FA04E)
+![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+#### Front-end Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
