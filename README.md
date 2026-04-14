@@ -7,11 +7,11 @@
 
 #### Back-end Stack
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 #### Databases
 
