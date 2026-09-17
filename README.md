@@ -1,19 +1,17 @@
-## 🔭 Hi, I am Pedro Alvarenga!
+## 🔭 Hi, I am Pedro!
 
-- 🤓 Back-end Enginner 
+- 🤓 Back-end Enginner
 - 🔥 I like to make things run fast and cheap
 
 ## 🧠 Tech Stack 
 
 #### Back-end Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8)
 ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
@@ -27,12 +25,12 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![nextjs](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+<!-- ![nextjs](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) -->
 
 
 
 ---
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:p.alvarenga.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alvarenga-afonso-73279b34a?)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://p-alvarenga.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alvarenga-021b57437/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://p-alvarenga.github.io) -->
 
